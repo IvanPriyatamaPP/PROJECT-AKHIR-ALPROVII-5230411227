@@ -5,7 +5,7 @@
 - **NPM:** 5230411227
 - **Kelas:** ALGORITMA PEMROGRAMAN PRAKTIK VII
 
-## Spesifikasi Proyek
+## Spesifikasi Project
 - **Bahasa:** Python
 - **Database:** SQLite
   - **Nama database:** db_hewan.db
