@@ -1,5 +1,5 @@
 # PROJECT AKHIR - SQLITE DATABASE CONNECT WITH PYTHON
-![thumbnail_github_VII](https://github.com/Dimaspermana293/latihan-github-baru/assets/97396687/dc632504-98e3-4fdd-a99a-79cd9accd5ec)
+https://github.com/IvanPriyatamaPP/PROJECT-AKHIR-ALPROVII-5230411227.git
 ## Identitas
 - **Nama:** Ivan Priyatama Pradana Putra
 - **NPM:** 5230411227
